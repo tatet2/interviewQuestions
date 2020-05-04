@@ -1,9 +1,3 @@
-```python
-%matplotlib inline
-import matplotlib
-import seaborn as sns
-matplotlib.rcParams['savefig.dpi'] = 144
-```
 
 # Statistics Interview Questions
 
@@ -125,4 +119,3 @@ face of a card and that face is green. Find the probability that the other side 
 10. Let’s say that you have 25 horses, and you want to pick the fastest 3 horses out of those 25. In each race, only 5 horses can run at the same time because there are only 5 tracks. What is the minimum number of races required to find the 3 fastest horses without using a stopwatch? http://www.programmerinterview.com/index.php/puzzles/25-horses-3-fastest-5-races-puzzle/
 
 
-*Copyright &copy; 2015 The Data Incubator.  All rights reserved.*
